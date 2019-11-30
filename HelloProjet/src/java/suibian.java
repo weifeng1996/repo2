@@ -12,5 +12,8 @@ public class suibian {
         System.out.println("这是用wf分支进行提交的" +
                 "？");
         System.out.println();
+
+        System.out.println("wf" +
+                "");
     }
 }
